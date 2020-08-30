@@ -67,4 +67,4 @@ message.channel.send(`Hoold on!`).then(m => {
 
 });
 
-client.login("NzM3NzQyMzcwNjU2ODc4Njc1.XyByHw.tZ9kVqrGm5kLS2eOBZTrtf9n4_4");
+client.login("NzM3NzQyMzcwNjU2ODc4Njc1.XyByHw.AzX5O_ykio9prlt-2XFq78YrvZs");
